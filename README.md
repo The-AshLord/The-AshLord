@@ -3,10 +3,12 @@
 
 - 🔭 I’m currently working on my portfolio and a VR Horror Scape Room (Public repo coming soon).
 - 🌱 I’m currently learning Meta Quest Development, and Online Integrations in Unity.
-- 💬 Ask me about Sci-fi & Fantasy books, Photography, DnD, and PC Builds.
-- 📫 How to reach me:
+- 💬 Ask me about Game Development, Transmedia Storytelling, Sci-fi & Fantasy books, Photography, DnD, and PC Builds.
+  
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/1313nicksv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1313nicksv" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nicol%c3%a1s-villa-vargas-602135259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicol%c3%a1s-villa-vargas-602135259/" height="30" width="40" /></a>
+<a href="https://instagram.com/1313nicksv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1313nicksv/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,5 +18,8 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=224wvqfowrbclozhwp3mjnmra&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-ashlord&show_icons=true&theme=tokyonight&locale=en" alt="the-ashlord" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-ashlord&theme=dark" alt="the-ashlord" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=The-AshLord&label=Profile%20views&color=blue&style=flat" alt="The-AshLord" /> </p>
