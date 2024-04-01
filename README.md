@@ -1,4 +1,4 @@
-<h1 align="center">Hello There 👋, I'm Nicolás Villa/h1>
+<h1 align="center">Hello There 👋, I'm Nicolás Villa</h1>
 <h3 align="center">A young engineering student currently working on my last semester, trying to improve everyday</h3>
 
 - 🔭 I’m currently working on my portfolio and a VR Horror Scape Room (Public repo coming soon).
