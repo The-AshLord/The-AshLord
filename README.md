@@ -1,7 +1,7 @@
 <h1 align="center">Hello There 👋, I'm Nicolás Villa</h1>
 <h3 align="center">A young engineering student currently working on my last semester, trying to improve everyday</h3>
 
-- 🔭 I’m currently working on my portfolio and a VR Horror Scape Room (Public repo coming soon).
+- 🔭 I’m currently working on my portfolio and a VR Horror Scape Room (Public repo here: https://gitlab.com/realidadauyvr/realidadadvirtual ).
 - 🌱 I’m currently learning Meta Quest Development, and Online Integrations in Unity.
 - 💬 Ask me about Game Development, Transmedia Storytelling, Sci-fi & Fantasy books, Photography, DnD, and PC Builds.
   
