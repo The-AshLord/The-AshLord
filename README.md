@@ -2,7 +2,8 @@
 <h3 align="center">Ingeniero en Diseño de Entretenimiento Digital, Fotográfo y Diseñador Narrativo",</h3>
 
 Estoy estudiando mi último semestre de Ingeniería en Diseño de Entretenimiento Digital con énfasis desarrrollo de videojuegos, VR/AR, UX/UI, fotografía, producción audiovisual, y narrativas transmedia.
-[![Static Badge](https://img.shields.io/badge/Hoja%20de%20Vida-a?logo=readdotcv&color=blue)](./assets/CV - Nicolas Villa Vargas.pdf)
+
+[![Static Badge](https://img.shields.io/badge/Hoja%20de%20Vida-a?logo=readdotcv&color=blue)](https://github.com/The-AshLord/The-AshLord/blob/main/assets/CV%20-%20Nicolas%20Villa%20Vargas.pdf)
 
 
 <h3 align="left">Herramientas qué más uso:</h3>
