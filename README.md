@@ -52,14 +52,14 @@ Proyecto Transmedia original y prototipado de un juego de plataformas para empat
 
 <a href="https://www.figma.com/proto/GnXYTLZ6Vd425YGyOO9zBI/UI%2FUX-Portafolio-Nicol%C3%A1s-Villa?node-id=103-12&node-type=canvas&t=wNHEYTALhx4kZkgI-0&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=103%3A12"><img src="./assets/Parches.jpg" style="height: 80%; width:80%;"/></a>
 
-Proyecto UX/UI de una App movil que permite a los jovenes conocer la agenda cultural y gastronomica de la ciudad de Medellín, suministrando la información necesaria para planear y ejecutar de manera exitosa sus parches (reunuines).
+Proyecto UX/UI de una App móvil que permite a los jóvenes conocer la agenda cultural y gastronómica de la ciudad de Medellín, suministrando la información necesaria para planear y ejecutar de manera exitosa sus parches (reuniones).
 
 ##DEX
 
 <a href="https://www.instagram.com/reel/CrmKLeoNJan/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="><img src="./assets/DEX.jpg" style="height: 80%; width:80%;"/></a>
 
 Campaña dirigida y grabada para promocionar las muestras finales del pregado, DEX, en el instagram @somosided. 
-Así mismo planeamos, cordianmos y gestionamos todo el evento y la logistica de las muestras en campus universitario.
+Así mismo planeamos, coordinamos y gestionamos todo el evento y la logística de las muestras en campus universitario.
 
 [![somosided en Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/somosided?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
@@ -75,7 +75,5 @@ Así mismo planeamos, cordianmos y gestionamos todo el evento y la logistica de 
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-ashlord&show_icons=true&theme=tokyonight&locale=en" alt="the-ashlord" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=the-ashlord&theme=dark" alt="the-ashlord" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=The-AshLord&label=Profile%20views&color=blue&style=flat" alt="The-AshLord" /> </p>
