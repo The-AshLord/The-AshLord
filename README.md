@@ -9,11 +9,11 @@ Estoy estudiando mi último semestre de Ingeniería en Diseño de Entretenimient
 # Proyectos en los que he participado
 
 ## Noctanbus VR
-[![Comprehensive Markdown Crash Course](https://img.youtube.com/vi/FEa2diI2qgA/mqdefault.jpg)](https://youtu.be/iAl6ntwBWMo?si=ClsbCoCyAKJQnPtS)
-<a href="https://youtu.be/iAl6ntwBWMo?si=ClsbCoCyAKJQnPtS"><img src="https://raw.githubusercontent.com/mouredev/roadmap-retos-programacion/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iAl6ntwBWMo?si=Glh7GNb_o6KrQ0vm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1727350323/video_to_markdown/images/youtube--iAl6ntwBWMo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=iAl6ntwBWMo "")
 
 Escape Room en Realidad Virtual desarrollado en colaboración con los chicos de Diseño Grafico como uno de sus entregables de la Materia Taller 5.
+[![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/realidadauyvr/realidadadvirtual)
 
 ## Ancestor's Legacy
 
