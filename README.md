@@ -1,10 +1,18 @@
-<h1 align="center">Hello There 👋, I'm Nicolás Villa</h1>
-<h3 align="center">A young engineering student currently working on my last semester, trying to improve everyday</h3>
+<h1 align="center">Hello There 👋, Soy Nicolás Villa Vargas</h1>
+<h3 align="center">Ingeniero en Diseño de Entretenimiento Digital, Fotográfo y Diseñador Narrativo",</h3>
 
-- 🔭 I’m currently working on my portfolio and a VR Horror Scape Room (Public repo here: https://gitlab.com/realidadauyvr/realidadadvirtual ).
-- 🌱 I’m currently learning Meta Quest Development, and Online Integrations in Unity.
-- 💬 Ask me about Game Development, Transmedia Storytelling, Sci-fi & Fantasy books, Photography, DnD, and PC Builds.
-  
+Estoy estudiando mi último semestre de Ingeniería en Diseño de Entretenimiento Digital con énfasis desarrrollo de videojuegos, VR/AR, UX/UI, fotografía, producción audiovisual, y narrativas transmedia.
+
+<h3 align="left">Herramientas:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://lightroom.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg" alt="Lightroom" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
+
+# Proyectos en los que he participado
+
+## Noctanbus VR
+<a href="https://gitlab.com/realidadauyvr/realidadadvirtual"><img src="https://raw.githubusercontent.com/mouredev/roadmap-retos-programacion/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
+
+Escape Room en Realidad Virtual desarrollado en colaboración con los chicos de Diseño Grafico como uno de sus entregables de la Materia Taller 5.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nicol%c3%a1s-villa-vargas-602135259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicol%c3%a1s-villa-vargas-602135259/" height="30" width="40" /></a>
