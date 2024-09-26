@@ -18,31 +18,45 @@ Escape Room en Realidad Virtual, para las Oculus Quest 2, desarrollado en colabo
 
 ## Ancestor's Legacy
 
-<a href="https://v3.globalgamejam.org/2023/games/ancestors-legacy-8"><img src="./assets/Pantalla_Final (1).png" style="height: 60%; width:60%;"/></a>
+<a href="https://v3.globalgamejam.org/2023/games/ancestors-legacy-8"><img src="./assets/Pantalla_Final (1).png" style="height: 80%; width:80%;"/></a>
 
 Juego del género Bullet Heaven, realizado durante la Global Game Jam 2023, en el que recorres las raices de la historia de la humanidad al tiempo qué vas heredando los poderes de tus ancestros para poderte enfrentar cada vez a más enemigos.
 
+[![Repo en GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gotensfer/ProyectoG)
+
 ## Las Matas que Matan
 
-<a href="https://mouredev.link/python"><img src="https://raw.githubusercontent.com/mouredev/Hello-Python/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
+<a href="https://www.canva.com/design/DAGFJaOXWNE/CLd5mmq-xFsX5jrK2Lo6bA/view?utm_content=DAGFJaOXWNE&utm_campaign=designshare&utm_medium=link&utm_source=editor"><img src="./assets/Game Studies.gif" style="height: 80%; width:80%;"/></a>
 
 Juego PvP local de peleas, con mécanicas de riesgo/recompensa, donde gracias a la extinción de la humanidad, las plantas que se han desarrollado por encima de lo que conocemos teniendo que adaptarse a lo poco que queda, sin darse el lujo de compartir ni un solo nutriente.
 
+[![Repo en GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Villegazs/GameStudiesLasMatas)
+
 ## GemaIQ
 
-<a href="https://mouredev.link/git"><img src="https://raw.githubusercontent.com/mouredev/hello-git/main/Media/header.jpg" style="height: 60%; width:60%;"/></a>
+<a href="https://mouredev.link/git"><img src="https://raw.githubusercontent.com/mouredev/hello-git/main/Media/header.jpg" style="height: 80%; width:80%;"/></a>
 
 Prototipo de app movil que por medio de realidad aumentada escanea una piedra preciosa ubicada un "Materializador de ideas" y proyecta holográficamente la idea que tengas que pienses, así como una infografía y datos del funcionamiento del artefacto en si."
 
+[![Repo en GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pipe2303/MaterializadorIdeas)
+
 ## Shedding Shadows
+
+<a href="https://upbeduco-my.sharepoint.com/:f:/g/personal/nicolas_villa_upb_edu_co/EgJW4WyLS_tLnlMilgr0RUEBC5Ck3gPBqY6zc31iQLnzAg?e=WgBkFO"><img src="./assets/Shadows.jpg" style="height: 80%; width:80%;"/></a>
 
 Proyecto Transmedia original y prototipado de un juego de plataformas para empatizar a los jóvenes sobre las dificultades de vivir con depresión y desmitificar la salud mental.
 
+[![Repo en GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danielarango32/Transdmedia)
+
 ##Parches
+
+<a href="https://www.figma.com/proto/GnXYTLZ6Vd425YGyOO9zBI/UI%2FUX-Portafolio-Nicol%C3%A1s-Villa?node-id=103-12&node-type=canvas&t=wNHEYTALhx4kZkgI-0&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=103%3A12"><img src="./assets/Parches.jpg" style="height: 80%; width:80%;"/></a>
 
 Proyecto UX/UI de una App movil que permite a los jovenes conocer la agenda cultural y gastronomica de la ciudad de Medellín, suministrando la información necesaria para planear y ejecutar de manera exitosa sus parches (reunuines).
 
 ##DEX
+
+<a href="https://www.instagram.com/reel/CrmKLeoNJan/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="><img src="./assets/DEX.jpg" style="height: 80%; width:80%;"/></a>
 
 Campaña dirigida y grabada para promocionar las muestras finales del pregado, DEX, en el instagram @somosided. 
 Así mismo planeamos, cordianmos y gestionamos todo el evento y la logistica de las muestras en campus universitario.
