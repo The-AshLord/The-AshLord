@@ -34,7 +34,7 @@ Juego PvP local de peleas, con mécanicas de riesgo/recompensa, donde gracias a 
 
 ## GemaIQ
 
-<a href="https://mouredev.link/git"><img src="https://raw.githubusercontent.com/mouredev/hello-git/main/Media/header.jpg" style="height: 80%; width:80%;"/></a>
+<a href="https://www.canva.com/design/DAF0J7PyXa0/wDjVUT_D_bv7aQTjgg2oGA/view?utm_content=DAF0J7PyXa0&utm_campaign=designshare&utm_medium=link&utm_source=mo"><img src="./assets/GemaIQ.png" style="height: 80%; width:80%;"/></a>
 
 Prototipo de app movil que por medio de realidad aumentada escanea una piedra preciosa ubicada un "Materializador de ideas" y proyecta holográficamente la idea que tengas que pienses, así como una infografía y datos del funcionamiento del artefacto en si."
 
