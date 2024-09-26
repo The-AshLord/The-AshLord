@@ -12,12 +12,13 @@ Estoy estudiando mi último semestre de Ingeniería en Diseño de Entretenimient
 
 [![](https://res.cloudinary.com/marcomontalbano/image/upload/v1727350323/video_to_markdown/images/youtube--iAl6ntwBWMo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=iAl6ntwBWMo "")
 
-Escape Room en Realidad Virtual desarrollado en colaboración con los chicos de Diseño Grafico como uno de sus entregables de la Materia Taller 5.
-[![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/realidadauyvr/realidadadvirtual)
+Escape Room en Realidad Virtual, para las Oculus Quest 2, desarrollado en colaboración con los chicos de Diseño Grafico como uno de sus entregables de la Materia Taller 5.
+
+[![Repo en GitLab](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/realidadauyvr/realidadadvirtual)
 
 ## Ancestor's Legacy
 
-<a href="https://v3.globalgamejam.org/2023/games/ancestors-legacy-8"><img src="https://raw.githubusercontent.com/mouredev/hello-sql/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
+<a href="https://v3.globalgamejam.org/2023/games/ancestors-legacy-8"><img src="./assets/Pantalla_Final (1).png" style="height: 60%; width:60%;"/></a>
 
 Juego del género Bullet Heaven, realizado durante la Global Game Jam 2023, en el que recorres las raices de la historia de la humanidad al tiempo qué vas heredando los poderes de tus ancestros para poderte enfrentar cada vez a más enemigos.
 
