@@ -2,8 +2,10 @@
 <h3 align="center">Ingeniero en Diseño de Entretenimiento Digital, Fotográfo y Diseñador Narrativo",</h3>
 
 Estoy estudiando mi último semestre de Ingeniería en Diseño de Entretenimiento Digital con énfasis desarrrollo de videojuegos, VR/AR, UX/UI, fotografía, producción audiovisual, y narrativas transmedia.
+[![Static Badge](https://img.shields.io/badge/Hoja%20de%20Vida-a?logo=readdotcv&color=blue)](./assets/CV - Nicolas Villa Vargas.pdf)
 
-<h3 align="left">Herramientas:</h3>
+
+<h3 align="left">Herramientas qué más uso:</h3>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://lightroom.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg" alt="Lightroom" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain.svg" alt="unity" width="40" height="40"/> </a> 
 
 # Proyectos en los que he participado
