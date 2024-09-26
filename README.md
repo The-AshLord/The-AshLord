@@ -9,7 +9,9 @@ Estoy estudiando mi último semestre de Ingeniería en Diseño de Entretenimient
 # Proyectos en los que he participado
 
 ## Noctanbus VR
-<a href="https://gitlab.com/realidadauyvr/realidadadvirtual"><img src="https://raw.githubusercontent.com/mouredev/roadmap-retos-programacion/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
+[![Comprehensive Markdown Crash Course](https://img.youtube.com/vi/FEa2diI2qgA/mqdefault.jpg)](https://youtu.be/iAl6ntwBWMo?si=ClsbCoCyAKJQnPtS)
+<a href="https://youtu.be/iAl6ntwBWMo?si=ClsbCoCyAKJQnPtS"><img src="https://raw.githubusercontent.com/mouredev/roadmap-retos-programacion/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iAl6ntwBWMo?si=Glh7GNb_o6KrQ0vm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Escape Room en Realidad Virtual desarrollado en colaboración con los chicos de Diseño Grafico como uno de sus entregables de la Materia Taller 5.
 
