@@ -65,12 +65,12 @@ Así mismo planeamos, coordinamos y gestionamos todo el evento y la logística d
 
 
 <h3 align="left">Formas de contactarme:</h3>
-[![Email](https://img.shields.io/sonofminerva35@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:sonofminerva35@gmail.com)
 <p align="left">
 <a href="https://linkedin.com/in/nicol%c3%a1s-villa-vargas-602135259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicol%c3%a1s-villa-vargas-602135259/" height="30" width="40" /></a>
 <a href="https://instagram.com/1313nicksv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1313nicksv/" height="30" width="40" /></a>
 </p>
 
+[![Static Badge](https://img.shields.io/badge/sonofminerva35%40gmail.com-a?logo=Gmail&color=blue)](mailto:sonofminerva35@gmail.com)
   
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=224wvqfowrbclozhwp3mjnmra&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=224wvqfowrbclozhwp3mjnmra&redirect=true)
 </p>
