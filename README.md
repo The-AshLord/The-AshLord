@@ -52,13 +52,13 @@ Proyecto Transmedia original y prototipado de un juego de plataformas para empat
 
 [![Repo en GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danielarango32/Transdmedia)
 
-##Parches
+## Parches
 
 <a href="https://www.figma.com/proto/GnXYTLZ6Vd425YGyOO9zBI/UI%2FUX-Portafolio-Nicol%C3%A1s-Villa?node-id=103-12&node-type=canvas&t=wNHEYTALhx4kZkgI-0&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=103%3A12"><img src="./assets/Parches.jpg" style="height: 80%; width:80%;"/></a>
 
 Proyecto UX/UI de una App móvil que permite a los jóvenes conocer la agenda cultural y gastronómica de la ciudad de Medellín, suministrando la información necesaria para planear y ejecutar de manera exitosa sus parches (reuniones).
 
-##DEX
+## DEX
 
 <a href="https://www.instagram.com/reel/CrmKLeoNJan/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="><img src="./assets/DEX.jpg" style="height: 80%; width:80%;"/></a>
 
