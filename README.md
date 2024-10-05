@@ -24,7 +24,7 @@ Escape Room en Realidad Virtual, para las Oculus Quest 2, desarrollado en colabo
 
 <a href="https://v3.globalgamejam.org/2023/games/ancestors-legacy-8"><img src="./assets/Pantalla_Final (1).png" style="height: 80%; width:80%;"/></a>
 
-Juego del género Bullet Heaven, realizado durante la Global Game Jam 2023, en el que recorres las raices de la historia de la humanidad al tiempo qué vas heredando los poderes de tus ancestros para poderte enfrentar cada vez a más enemigos.
+Juego del género Bullet Heaven, realizado durante la Global Game Jam 2023, en el que recorres las raíces de la historia de la humanidad al tiempo qué vas heredando los poderes de tus ancestros para enfrentar cada vez a más enemigos.
 
 [![Repo en GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gotensfer/ProyectoG)
 
@@ -40,7 +40,7 @@ Juego PvP local de peleas, con mécanicas de riesgo/recompensa, donde gracias a 
 
 <a href="https://www.canva.com/design/DAF0J7PyXa0/wDjVUT_D_bv7aQTjgg2oGA/view?utm_content=DAF0J7PyXa0&utm_campaign=designshare&utm_medium=link&utm_source=mo"><img src="./assets/GemaIQ.png" style="height: 80%; width:80%;"/></a>
 
-Prototipo de app movil que por medio de realidad aumentada escanea una piedra preciosa ubicada un "Materializador de ideas" y proyecta holográficamente la idea que tengas que pienses, así como una infografía y datos del funcionamiento del artefacto en si."
+Prototipo de app móvil que por medio de realidad aumentada escanea una piedra preciosa ubicada un "Materializador de ideas" y proyectar holográficamente una idea, así como la infografía y datos del funcionamiento del artefacto en sí.
 
 [![Repo en GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pipe2303/MaterializadorIdeas)
 
@@ -48,7 +48,7 @@ Prototipo de app movil que por medio de realidad aumentada escanea una piedra pr
 
 <a href="https://upbeduco-my.sharepoint.com/:f:/g/personal/nicolas_villa_upb_edu_co/EgJW4WyLS_tLnlMilgr0RUEBC5Ck3gPBqY6zc31iQLnzAg?e=WgBkFO"><img src="./assets/Shadows.jpg" style="height: 80%; width:80%;"/></a>
 
-Proyecto Transmedia original y prototipado de un juego de plataformas para empatizar a los jóvenes sobre las dificultades de vivir con depresión y desmitificar la salud mental.
+Proyecto original Transmedia  y prototipado de un juego de plataformas para empatizar a los jóvenes sobre las dificultades de vivir con depresión y desmitificar la salud mental.
 
 [![Repo en GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danielarango32/Transdmedia)
 
