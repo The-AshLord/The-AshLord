@@ -1,5 +1,5 @@
 <h1 align="center">Hello There 👋, Soy Nicolás Villa Vargas</h1>
-<h3 align="center">Ingeniero en Diseño de Entretenimiento Digital, Fotográfo y Diseñador Narrativo",</h3>
+<h3 align="center">Ingeniero en Diseño de Entretenimiento Digital, Desarrollador de Videojuegos y Diseñador Narrativo,</h3>
 
 Estoy estudiando mi último semestre de Ingeniería en Diseño de Entretenimiento Digital con énfasis desarrrollo de videojuegos, VR/AR, UX/UI, fotografía, producción audiovisual, y narrativas transmedia.
 
