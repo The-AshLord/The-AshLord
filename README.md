@@ -17,42 +17,43 @@ Estoy estudiando mi último semestre de Ingeniería en Diseño de Entretenimient
   <tr>
     <td valign="top">
       <h3><a href="https://gitlab.com/realidadauyvr/realidadadvirtual">Noctanbus VR</a></h3>
-      <p>Escape Room en Realidad Virtual, para las Oculus Quest 2, desarrollado en colaboración con los chicos de Diseño Grafico como uno de sus entregables de la Materia Taller 5..</p>
+      <p>Escape Room en Realidad Virtual, para las Oculus Quest 2, desarrollado en colaboración con los chicos de Diseño Grafico como uno de sus entregables de la Materia Taller 5.</p>
       <p>
         <img src="https://img.shields.io/badge/c%23-%2300599C.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
         <img src="https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white" alt="Meta Quest"/>
         <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
       </p>
-      <a href="https://github.com/CyberTimon/RapidRAW/releases"><strong>View the Repo →</strong></a>
+      <a href="https://gitlab.com/realidadauyvr/realidadadvirtual"><strong>View the Repo →</strong> <img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="Gitlab"/></a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/CyberTimon/RapidRAW">
-        <img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1727350323/video_to_markdown/images/youtube--iAl6ntwBWMo-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="Noctanbus VR Screenshot" href="https://www.youtube.com/watch?v=iAl6ntwBWMo" style="max-width: 100%; border-radius: 8px;">
+      <a href="https://gitlab.com/realidadauyvr/realidadadvirtual">
+        <img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1727350323/video_to_markdown/images/youtube--iAl6ntwBWMo-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="Noctanbus VR Screenshot" style="max-width: 100%; border-radius: 8px;">
       </a>
     </td>
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td valign="top">
+      <h3><a href="https://github.com/Gotensfer/ProyectoG">Ancestor's Legacy</a></h3>
+      <p>Juego del género Bullet Heaven, realizado durante la Global Game Jam 2023, en el que recorres las raíces de la historia de la humanidad al tiempo qué vas heredando los poderes de tus ancestros para enfrentar cada vez a más enemigos.</p>
+      <p>
+        <img src="https://img.shields.io/badge/c%23-%2300599C.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+        <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator"/>
+        <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+      </p>
+      <a href="https://github.com/Gotensfer/ProyectoG"><strong>View the Repo →</strong> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://v3.globalgamejam.org/2023/games/ancestors-legacy-8">
+        <img src="./assets/Pantalla_Final (1).png" alt="Noctanbus VR Screenshot" style="max-width: 100%; border-radius: 8px;">
+      </a>
+    </td>
+  </tr>
+</table>
 ---
 
-# Proyectos en los que he participado
-¡Dale click en as imagenes para saber más!
-
-## Noctanbus VR
-
-[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1727350323/video_to_markdown/images/youtube--iAl6ntwBWMo-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=iAl6ntwBWMo "")
-
-Escape Room en Realidad Virtual, para las Oculus Quest 2, desarrollado en colaboración con los chicos de Diseño Grafico como uno de sus entregables de la Materia Taller 5.
-
-[![Repo en GitLab](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/realidadauyvr/realidadadvirtual)
-
-## Ancestor's Legacy
-
-<a href="https://v3.globalgamejam.org/2023/games/ancestors-legacy-8"><img src="./assets/Pantalla_Final (1).png" style="height: 80%; width:80%;"/></a>
-
-Juego del género Bullet Heaven, realizado durante la Global Game Jam 2023, en el que recorres las raíces de la historia de la humanidad al tiempo qué vas heredando los poderes de tus ancestros para enfrentar cada vez a más enemigos.
-
-[![Repo en GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gotensfer/ProyectoG)
 
 ## Las Matas que Matan
 
