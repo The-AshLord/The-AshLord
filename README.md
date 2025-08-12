@@ -8,8 +8,32 @@ Estoy estudiando mi último semestre de Ingeniería en Diseño de Entretenimient
 
 <h3 align="left">Herramientas qué más uso:</h3>
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="50" height="50"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="50" height="50"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a> <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width="52" height="52"/> </a> <a href="https://lightroom.adobe.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg" alt="Lightroom" width="50" height="50"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" width="50" height="50"/> </a> <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" alt="Salesforce" width="55" height="55"/> </a><a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain.svg" alt="unity" width="50" height="50"/> </a>
-          
 
+---
+
+## Featured Projects:
+
+<table>
+  <tr>
+    <td valign="top">
+      <h3><a href="https://gitlab.com/realidadauyvr/realidadadvirtual">Noctanbus VR</a></h3>
+      <p>Escape Room en Realidad Virtual, para las Oculus Quest 2, desarrollado en colaboración con los chicos de Diseño Grafico como uno de sus entregables de la Materia Taller 5..</p>
+      <p>
+        <img src="https://img.shields.io/badge/c%23-%2300599C.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+        <img src="https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white" alt="Meta Quest"/>
+        <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+      </p>
+      <a href="https://github.com/CyberTimon/RapidRAW/releases"><strong>View the Repo →</strong></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/CyberTimon/RapidRAW">
+        <img src="https://res.cloudinary.com/marcomontalbano/image/upload/v1727350323/video_to_markdown/images/youtube--iAl6ntwBWMo-c05b58ac6eb4c4700831b2b3070cd403.jpg" alt="Noctanbus VR Screenshot" href="https://www.youtube.com/watch?v=iAl6ntwBWMo" style="max-width: 100%; border-radius: 8px;">
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
 
 # Proyectos en los que he participado
 ¡Dale click en as imagenes para saber más!
