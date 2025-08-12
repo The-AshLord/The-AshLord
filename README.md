@@ -47,21 +47,33 @@ Estoy estudiando mi último semestre de Ingeniería en Diseño de Entretenimient
     </td>
     <td width="50%" align="center">
       <a href="https://v3.globalgamejam.org/2023/games/ancestors-legacy-8">
-        <img src="./assets/Pantalla_Final (1).png" alt="Noctanbus VR Screenshot" style="max-width: 100%; border-radius: 8px;">
+        <img src="./assets/Pantalla_Final (1).png" alt="Ancestor's Legacy Screenshot" style="max-width: 100%; border-radius: 8px;">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td valign="top">
+      <h3><a href="https://github.com/Villegazs/GameStudiesLasMatas">Las Matas que Matan</a></h3>
+      <p>Juego PvP local de peleas, con mécanicas de riesgo/recompensa, donde gracias a la extinción de la humanidad, las plantas que se han desarrollado por encima de lo que conocemos teniendo que adaptarse a lo poco que queda, sin darse el lujo de compartir ni un solo nutriente.</p>
+      <p>
+        <img src="https://img.shields.io/badge/c%23-%2300599C.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+        <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
+        <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+      </p>
+      <a href="https://github.com/Villegazs/GameStudiesLasMatas"><strong>View the Repo →</strong> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="[https://v3.globalgamejam.org/2023/games/ancestors-legacy-8](https://www.canva.com/design/DAGFJaOXWNE/CLd5mmq-xFsX5jrK2Lo6bA/view?utm_content=DAGFJaOXWNE&utm_campaign=designshare&utm_medium=link&utm_source=editor)">
+        <img src="./assets/Game Studies.gif" alt="Las Matas que Matan Screenshot" style="max-width: 100%; border-radius: 8px;">
       </a>
     </td>
   </tr>
 </table>
 ---
 
-
-## Las Matas que Matan
-
-<a href="https://www.canva.com/design/DAGFJaOXWNE/CLd5mmq-xFsX5jrK2Lo6bA/view?utm_content=DAGFJaOXWNE&utm_campaign=designshare&utm_medium=link&utm_source=editor"><img src="./assets/Game Studies.gif" style="height: 80%; width:80%;"/></a>
-
-Juego PvP local de peleas, con mécanicas de riesgo/recompensa, donde gracias a la extinción de la humanidad, las plantas que se han desarrollado por encima de lo que conocemos teniendo que adaptarse a lo poco que queda, sin darse el lujo de compartir ni un solo nutriente.
-
-[![Repo en GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Villegazs/GameStudiesLasMatas)
 
 ## GemaIQ
 
