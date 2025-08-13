@@ -66,22 +66,36 @@ Estoy estudiando mi último semestre de Ingeniería en Diseño de Entretenimient
       <a href="https://github.com/Villegazs/GameStudiesLasMatas"><strong>View the Repo →</strong> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>
     </td>
     <td width="50%" align="center">
-      <a href="[https://v3.globalgamejam.org/2023/games/ancestors-legacy-8](https://www.canva.com/design/DAGFJaOXWNE/CLd5mmq-xFsX5jrK2Lo6bA/view?utm_content=DAGFJaOXWNE&utm_campaign=designshare&utm_medium=link&utm_source=editor)">
+      <a href="https://www.canva.com/design/DAGFJaOXWNE/CLd5mmq-xFsX5jrK2Lo6bA/view?utm_content=DAGFJaOXWNE&utm_campaign=designshare&utm_medium=link&utm_source=editor">
         <img src="./assets/Game Studies.gif" alt="Las Matas que Matan Screenshot" style="max-width: 100%; border-radius: 8px;">
       </a>
     </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <td valign="top">
+      <h3><a href="https://github.com/Pipe2303/MaterializadorIdeas">GemaIQ</a></h3>
+      <p>Prototipo de app móvil que por medio de realidad aumentada escanea una piedra preciosa ubicada un "Materializador de ideas" y proyectar holográficamente una idea, así como la infografía y datos del funcionamiento del artefacto en sí..</p>
+      <p>
+        <img src="https://img.shields.io/badge/c%23-%2300599C.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+        <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+        <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+      </p>
+      <a href="https://github.com/Pipe2303/MaterializadorIdeas"><strong>View the Repo →</strong> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://www.canva.com/design/DAF0J7PyXa0/wDjVUT_D_bv7aQTjgg2oGA/view?utm_content=DAF0J7PyXa0&utm_campaign=designshare&utm_medium=link&utm_source=mo">
+        <img src="./assets/GemaIQ.png" alt="Las Matas que Matan Screenshot" style="max-width: 100%; border-radius: 8px;">
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 ---
 
-
-## GemaIQ
-
-<a href="https://www.canva.com/design/DAF0J7PyXa0/wDjVUT_D_bv7aQTjgg2oGA/view?utm_content=DAF0J7PyXa0&utm_campaign=designshare&utm_medium=link&utm_source=mo"><img src="./assets/GemaIQ.png" style="height: 80%; width:80%;"/></a>
-
-Prototipo de app móvil que por medio de realidad aumentada escanea una piedra preciosa ubicada un "Materializador de ideas" y proyectar holográficamente una idea, así como la infografía y datos del funcionamiento del artefacto en sí.
-
-[![Repo en GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pipe2303/MaterializadorIdeas)
 
 ## Shedding Shadows
 
