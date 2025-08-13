@@ -77,7 +77,7 @@ Estoy estudiando mi último semestre de Ingeniería en Diseño de Entretenimient
   <tr>
     <td valign="top">
       <h3><a href="https://github.com/Pipe2303/MaterializadorIdeas">GemaIQ</a></h3>
-      <p>Prototipo de app móvil que por medio de realidad aumentada escanea una piedra preciosa ubicada un "Materializador de ideas" y proyectar holográficamente una idea, así como la infografía y datos del funcionamiento del artefacto en sí..</p>
+      <p>Prototipo de app móvil que por medio de realidad aumentada escanea una piedra preciosa ubicada un "Materializador de ideas" y proyectar holográficamente una idea, así como la infografía y datos del funcionamiento del artefacto en sí.</p>
       <p>
         <img src="https://img.shields.io/badge/c%23-%2300599C.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
         <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
@@ -87,7 +87,66 @@ Estoy estudiando mi último semestre de Ingeniería en Diseño de Entretenimient
     </td>
     <td width="50%" align="center">
       <a href="https://www.canva.com/design/DAF0J7PyXa0/wDjVUT_D_bv7aQTjgg2oGA/view?utm_content=DAF0J7PyXa0&utm_campaign=designshare&utm_medium=link&utm_source=mo">
-        <img src="./assets/GemaIQ.png" alt="Las Matas que Matan Screenshot" style="max-width: 100%; border-radius: 8px;">
+        <img src="./assets/GemaIQ.png" alt="GemaIQ Screenshot" style="max-width: 100%; border-radius: 8px;">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td valign="top">
+      <h3><a href="https://github.com/danielarango32/Transdmedia">Shedding Shadows</a></h3>
+      <p>Proyecto original Transmedia  y prototipado de un juego de plataformas para empatizar a los jóvenes sobre las dificultades de vivir con depresión y desmitificar la salud mental.</p>
+      <p>
+        <img src="https://img.shields.io/badge/c%23-%2300599C.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+        <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+        <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
+      </p>
+      <a href="https://github.com/danielarango32/Transdmedia"><strong>View the Repo →</strong> <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Github"/></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://upbeduco-my.sharepoint.com/:f:/g/personal/nicolas_villa_upb_edu_co/EgJW4WyLS_tLnlMilgr0RUEBC5Ck3gPBqY6zc31iQLnzAg?e=WgBkFO">
+        <img src="./assets/Shadows.jpg" alt="Shedding Shadows Screenshot" style="max-width: 100%; border-radius: 8px;">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td valign="top">
+      <h3><a href="https://www.figma.com/proto/GnXYTLZ6Vd425YGyOO9zBI/UI%2FUX-Portafolio-Nicol%C3%A1s-Villa?node-id=103-12&node-type=canvas&t=wNHEYTALhx4kZkgI-0&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=103%3A12">Parches</a></h3>
+      <p>Proyecto UX/UI de una App móvil que permite a los jóvenes conocer la agenda cultural y gastronómica de la ciudad de Medellín, suministrando la información necesaria para planear y ejecutar de manera exitosa sus parches (reuniones).</p>
+      <p>
+        <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+      </p>
+      <a href="https://www.figma.com/proto/GnXYTLZ6Vd425YGyOO9zBI/UI%2FUX-Portafolio-Nicol%C3%A1s-Villa?node-id=103-12&node-type=canvas&t=wNHEYTALhx4kZkgI-0&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=103%3A12"><strong>View the Demo</strong></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://www.figma.com/proto/GnXYTLZ6Vd425YGyOO9zBI/UI%2FUX-Portafolio-Nicol%C3%A1s-Villa?node-id=103-12&node-type=canvas&t=wNHEYTALhx4kZkgI-0&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=103%3A12">
+        <img src="./assets/Parches.jpg" alt="Parches Screenshot" style="max-width: 100%; border-radius: 8px;">
+      </a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td valign="top">
+      <h3><a href="https://www.instagram.com/reel/CrmKLeoNJan/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">DEX</a></h3>
+      <p>Campaña dirigida y grabada para promocionar las muestras finales del pregado, DEX, en el instagram @somosided. 
+Así mismo planeamos, coordinamos y gestionamos todo el evento y la logística de las muestras en campus universitario.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="Premier"/>
+        <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Photoshop"/>
+        <img src="https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white" alt="Ligthroom"/>
+      </p>
+      <a href="https://www.instagram.com/somosided"><strong>View the Account →</strong> <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://www.instagram.com/reel/CrmKLeoNJan/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==">
+        <img src="./assets/DEX.jpg" alt="Shedding Shadows Screenshot" style="max-width: 100%; border-radius: 8px;">
       </a>
     </td>
   </tr>
@@ -96,42 +155,17 @@ Estoy estudiando mi último semestre de Ingeniería en Diseño de Entretenimient
 
 ---
 
-
-## Shedding Shadows
-
-<a href="https://upbeduco-my.sharepoint.com/:f:/g/personal/nicolas_villa_upb_edu_co/EgJW4WyLS_tLnlMilgr0RUEBC5Ck3gPBqY6zc31iQLnzAg?e=WgBkFO"><img src="./assets/Shadows.jpg" style="height: 80%; width:80%;"/></a>
-
-Proyecto original Transmedia  y prototipado de un juego de plataformas para empatizar a los jóvenes sobre las dificultades de vivir con depresión y desmitificar la salud mental.
-
-[![Repo en GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danielarango32/Transdmedia)
-
-## Parches
-
-<a href="https://www.figma.com/proto/GnXYTLZ6Vd425YGyOO9zBI/UI%2FUX-Portafolio-Nicol%C3%A1s-Villa?node-id=103-12&node-type=canvas&t=wNHEYTALhx4kZkgI-0&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=103%3A12"><img src="./assets/Parches.jpg" style="height: 80%; width:80%;"/></a>
-
-Proyecto UX/UI de una App móvil que permite a los jóvenes conocer la agenda cultural y gastronómica de la ciudad de Medellín, suministrando la información necesaria para planear y ejecutar de manera exitosa sus parches (reuniones).
-
-## DEX
-
-<a href="https://www.instagram.com/reel/CrmKLeoNJan/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="><img src="./assets/DEX.jpg" style="height: 80%; width:80%;"/></a>
-
-Campaña dirigida y grabada para promocionar las muestras finales del pregado, DEX, en el instagram @somosided. 
-Así mismo planeamos, coordinamos y gestionamos todo el evento y la logística de las muestras en campus universitario.
-
-[![somosided en Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/somosided?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
-
-
 <h3 align="left">Formas de contactarme:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nicol%c3%a1s-villa-vargas-602135259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicol%c3%a1s-villa-vargas-602135259/" height="30" width="40" /></a>
-<a href="https://instagram.com/1313nicksv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1313nicksv/" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/nicol%c3%a1s-villa-vargas-602135259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nicol%c3%a1s-villa-vargas-602135259/" height="30" width="40" /></a>
+  <a href="https://instagram.com/1313nicksv/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="1313nicksv/" height="30" width="40" /></a>
+  <a href="mailto:sonofminerva35@gmail.com">
+    <img src="https://img.shields.io/badge/sonofminerva35%40gmail.com-a?logo=Gmail&color=blue" alt="Ligthroom"/>
+  </a>
 </p>
-
-[![Static Badge](https://img.shields.io/badge/sonofminerva35%40gmail.com-a?logo=Gmail&color=blue)](mailto:sonofminerva35@gmail.com)
   
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=224wvqfowrbclozhwp3mjnmra&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=224wvqfowrbclozhwp3mjnmra&redirect=true)
-</p>
+![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=224wvqfowrbclozhwp3mjnmra&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=the-ashlord&show_icons=true&theme=tokyonight&locale=en" alt="the-ashlord" /></p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=The-AshLord&label=Profile%20views&color=blue&style=flat" alt="The-AshLord" /> </p>
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=the-ashlord&show_icons=true&theme=tokyonight&locale=en" alt="the-ashlord" />                    
+<p align="right"><img align="right" src="https://komarev.com/ghpvc/?username=The-AshLord&label=Profile%20views&color=blue&style=flat" alt="The-AshLord" /></p>
